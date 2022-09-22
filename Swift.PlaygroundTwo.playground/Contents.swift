@@ -22,3 +22,34 @@ if gradeA == true
 }else {
     print("I'm not so sure about coding in Swift")
 }
+
+// Part 5
+var x = 19; var y = 27
+x < y
+
+//line 29 is the conditional statement
+if x == y
+{
+    //then the code block will execute
+    print ("X is older")
+}else
+{
+    print("They are the same age")
+}
+var grassisgreen = true
+
+if grassisgreen == true
+{
+    print("Leaves are also green")
+} else {
+    print("The sky is red")
+}
+
+var gradeF = false
+
+if gradeF == false
+{
+    print ("I'm doing well in class")
+}else {
+    print ("I need help in Swift")
+}
